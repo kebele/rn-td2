@@ -45,6 +45,7 @@ export default function App() {
             placeholder="enter a new task"
             onChangeText={addNewTask}
             value={newTask}
+textAlign="center"
           ></TextInput>
         </View>
 
